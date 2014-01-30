@@ -2,7 +2,6 @@
 
 function HelloWorld(){
     console.log("Hello World!!!");
-    console.log("adding a few lines of code");
     var condition = true;
     //first commit
     if (condition){
