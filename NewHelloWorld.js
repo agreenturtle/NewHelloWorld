@@ -2,9 +2,18 @@
 
 function HelloWorld(){
     console.log("Hello World!!!");
-    console.log("adding a few lines of code");
     var condition = true;
-
+    //first commit
+    if (condition){
+        console.log("condition == true");
+    }
+    else {
+        console.log("condition == false");
+    }
+    //second commit
+    for (var i = 0; i < 10; i++){
+        console.log(i);
+    }
 }
 
 HelloWorld();
