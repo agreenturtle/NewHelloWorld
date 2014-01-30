@@ -1,4 +1,4 @@
 NewHelloWorld
 =============
 
-Found the Readme file =)
+This is my README file
