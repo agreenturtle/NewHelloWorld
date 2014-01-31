@@ -17,7 +17,7 @@ function HelloWorld(){
     //change a line of code
     
     console.log("matt added this line");
-    console.log("added some more lines");
+    conosle.log("More lines added");
 }
 
 HelloWorld();
